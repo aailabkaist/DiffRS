@@ -1,5 +1,7 @@
 # Diffusion Rejection Sampling (DiffRS) (ICML 2024)
 
+| [arXiv](https://arxiv.org/abs/2405.17880) |
+
 --------------------
 
 This repo contains an official PyTorch implementation for the paper "Diffusion Rejection Sampling" in [ICML 2024](https://icml.cc/Conferences/2024).
