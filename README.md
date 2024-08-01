@@ -49,10 +49,15 @@ This work is heavily built upon the code from:
 
 ```
 @inproceedings{na2024diffusion,
-  title={Diffusion Rejection Sampling},
-  author={Na, Byeonghu and Kim, Yeongmin and Park, Minsang and Shin, Donghyeok and Kang, Wanmo and Moon, Il-Chul},
-  booktitle={International Conference on Machine Learning},
-  year={2024},
-  organization={PMLR}
+  title = 	 {Diffusion Rejection Sampling},
+  author =       {Na, Byeonghu and Kim, Yeongmin and Park, Minsang and Shin, Donghyeok and Kang, Wanmo and Moon, Il-Chul},
+  booktitle = 	 {Proceedings of the 41st International Conference on Machine Learning},
+  pages = 	 {37097--37121},
+  year = 	 {2024},
+  editor = 	 {Salakhutdinov, Ruslan and Kolter, Zico and Heller, Katherine and Weller, Adrian and Oliver, Nuria and Scarlett, Jonathan and Berkenkamp, Felix},
+  volume = 	 {235},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {21--27 Jul},
+  publisher =    {PMLR},
 }
 ```
