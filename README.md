@@ -1,6 +1,6 @@
 # Diffusion Rejection Sampling (DiffRS) (ICML 2024)
 
-| [arXiv](https://arxiv.org/abs/2405.17880) |
+| [paper](https://proceedings.mlr.press/v235/na24a.html) | [arXiv](https://arxiv.org/abs/2405.17880) | [poster](https://icml.cc/media/PosterPDFs/ICML%202024/34559.png?t=1721399675.3276865) |
 
 --------------------
 
