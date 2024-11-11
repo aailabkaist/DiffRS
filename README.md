@@ -27,9 +27,9 @@ In our experiment, we utilized CUDA 11.4 and PyTorch 1.12.
 ## Diffusion Rejection Sampling
 
 1. Download the pre-trained diffusion network and the trained discriminator network from DG.
-  - Download 'edm-cifar10-32x32-uncond-vp.pkl' at [EDM](https://github.com/NVlabs/edm).
-  - Download 'DG/checkpoints/ADM_classifier/32x32_classifier.pt' at [DG](https://github.com/aailabkaist/DG).
-  - Download 32x32_classifier.pt at [ADM](https://github.com/openai/guided-diffusion).
+  - Download '[edm-cifar10-32x32-uncond-vp.pkl](https://nvlabs-fi-cdn.nvidia.com/edm/pretrained/edm-cifar10-32x32-uncond-vp.pkl)' at [EDM](https://github.com/NVlabs/edm).
+  - Download '[DG/checkpoints/discriminator/cifar_uncond/discriminator_60.pt](https://drive.google.com/drive/folders/1Mf3F1yGfWT8bO0_iOBX-PWG3O-OLROE2)' at [DG](https://github.com/aailabkaist/DG).
+  - Download '[DG/checkpoints/ADM_classifier/32x32_classifier.pt](https://drive.google.com/drive/folders/1gb68C13-QOt8yA6ZnnS6G5pVIlPO7j_y)' at [DG](https://github.com/aailabkaist/DG).
 
 2. Generate DiffRS samples using `generate_diffrs.py`. For example:
 
